@@ -1,2 +1,2 @@
-lanekeeping.py is the code used for Question 1.
-main.py is the code used for Question 2.
+open_loop_simulation.py is the code used for Question 1.
+closed_loop_simulation.py is the code used for Question 2.
